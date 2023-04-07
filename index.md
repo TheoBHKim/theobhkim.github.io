@@ -11,7 +11,7 @@
 ---
 
 [ML algorithms from scratch](/MLalgo)
-
+<img src="images/random_forest.png?raw=true"/>
 ---
 
 [Netflix A/B testing](/netflix)
