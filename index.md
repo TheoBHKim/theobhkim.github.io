@@ -5,7 +5,7 @@
 ## Data Science Projects
 
 ---
-### [Reddit Sentiment Analyzer](/reddit)
+### [Reddit Sentiment Analyzer](https://github.com/TheoBHKim/theobhkim.github.io/tree/master/reddit)
 
 <img src="images/wordcloud.png?raw=true"/>
 
