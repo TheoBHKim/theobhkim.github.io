@@ -16,6 +16,7 @@
 ---
 
 [Netflix A/B testing](/netflix)
+<img src="images/ab_testing.png?raw=true"/>
 
 ---
 
