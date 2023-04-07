@@ -9,7 +9,7 @@
 
 ---
 [Reddit Sentiment Analyzer](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/wordcloud.png?raw=true"/>
 
 ---
 
