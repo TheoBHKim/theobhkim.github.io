@@ -1,10 +1,10 @@
 title: Byunghyun Theo Kim # your name (or website title) here
 logo: "/images/profile_picture.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
+  # First description 
+  # <br><br>
+  # Second description 
+  # <br><br>
   <a href="https://www.linkedin.com/in/theobhk/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
