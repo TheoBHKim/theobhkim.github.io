@@ -10,7 +10,7 @@
 
 ---
 
-[ML algorithms from scratch](/MLalgo)
+[ML algorithms from scratch](/mlalgo)
 <img src="images/random_forest.png?raw=true"/>
 
 ---
