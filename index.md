@@ -4,11 +4,13 @@
 
 ## Data Science Projects
 
-[ML algorithms from scratch](/MLalgo)
 
----
 [Reddit Sentiment Analyzer](/reddit)
 <img src="images/wordcloud.png?raw=true"/>
+
+---
+
+[ML algorithms from scratch](/MLalgo)
 
 ---
 
