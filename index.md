@@ -13,7 +13,7 @@
 
 ---
 
-[Netflix](/netflix)
+[Netflix A/B testing](/netflix)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
