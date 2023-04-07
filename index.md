@@ -4,17 +4,17 @@
 
 ## Data Science Projects
 
-[ML algorithms from scratch](/sample_page)
+[ML algorithms from scratch](/MLalgo)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Reddit Sentiment Analyzer]
+[Reddit Sentiment Analyzer](/reddit)
 <img src="images/wordcloud.png?raw=true"/>
 
 ---
 
-[Reddit Sentiment Analyzer](/pdf)
-<img src="images/wordcloud.png?raw=true"/>
+[Netflix](/netflix)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
