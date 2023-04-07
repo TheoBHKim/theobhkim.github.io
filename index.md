@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Reddit Sentiment Analyzer](/pdf/sample_presentation.pdf)
+[Reddit Sentiment Analyzer](/pdf)
 <img src="images/wordcloud.png?raw=true"/>
 
 ---
