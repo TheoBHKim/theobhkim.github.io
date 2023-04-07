@@ -10,7 +10,7 @@
 <img src="images/wordcloud.png?raw=true"/>
 
 ---
-### [ML algorithms from scratch](/mlalgo)
+### [ML algorithms from scratch](https://github.com/TheoBHKim/theobhkim.github.io/tree/master/mlalgo)
 
 <img src="images/random_forest.png?raw=true"/>
 
