@@ -12,7 +12,7 @@
 ---
 ### [ML algorithms from scratch](https://github.com/TheoBHKim/theobhkim.github.io/tree/master/mlalgo)
 
-<img src="images/random_forest.png?raw=true"/>
+<img src="images/decision_tree.png?raw=true"/>
 
 ---
 ### [Netflix A/B testing](/netflix)
