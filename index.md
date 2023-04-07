@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Projects
+## Data Science Projects
 
 [ML algorithms from scratch](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -14,7 +14,7 @@
 ---
 
 
-### ETC
+## ETC
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
