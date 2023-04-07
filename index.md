@@ -8,11 +8,15 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Reddit Sentiment Analyzer](/pdf)
+[Reddit Sentiment Analyzer]
 <img src="images/wordcloud.png?raw=true"/>
 
 ---
 
+[Reddit Sentiment Analyzer](/pdf)
+<img src="images/wordcloud.png?raw=true"/>
+
+---
 
 ## ETC
 
