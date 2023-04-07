@@ -5,7 +5,6 @@
 ## Data Science Projects
 
 [ML algorithms from scratch](/MLalgo)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Reddit Sentiment Analyzer](/reddit)
@@ -14,7 +13,6 @@
 ---
 
 [Netflix A/B testing](/netflix)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
