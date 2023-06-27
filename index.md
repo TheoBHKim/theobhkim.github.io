@@ -15,3 +15,6 @@
 <img src="images/wordcloud1.png?raw=true"/>
 
 ---
+### [Netflix A/B testing](/netflix)
+
+<img src="images/ab.png?raw=true"/>
