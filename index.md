@@ -10,7 +10,7 @@
 <img src="images/decision_tree.png?raw=true"/>
 
 ---
-### [Reddit Sentiment Analyzer](https://github.com/TheoBHKim/theobhkim.github.io/tree/master/reddit)
+### [Reddit Sentiment Analyzer](https://github.com/TheoBHKim/theobhkim.github.io/blob/master/reddit/wordcloud.png)https://github.com/TheoBHKim/theobhkim.github.io/blob/master/reddit/wordcloud.png)
 
 <img src="images/wordcloud1.png?raw=true"/>
 
